@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a graduate student at the University of British Columbia studying Data Science with a specialization in Computational Linguistics a.k.a NLP
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[nilansaha@gmail.com](mailto:nilansaha@gmail.com)
